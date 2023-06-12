@@ -2,7 +2,6 @@ import styles from './styles';
 import {
   Billing,
   Business,
-  Button,
   CardDeal,
   Clients,
   CTA,
